@@ -1,0 +1,6 @@
+{
+	"id":1,
+	"username":hss,
+	"age":20,
+	"address":jojo
+}
